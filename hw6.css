@@ -1,0 +1,19 @@
+/* This changes the backgrond color to blue*/
+body {
+  background-color: lightblue;
+
+}
+/* changes the header to italics and center aligns it*/
+h3{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 10;
+  text-align: center;
+}
+
+ {
+      background-image: url(images/newsletter_headline2.gif);
+      background-repeat: no-repeat;
+      background-position: left top;
+      padding-top:68px;
+   }
